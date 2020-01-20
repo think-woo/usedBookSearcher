@@ -9,3 +9,7 @@ jsoup (https://jsoup.org/)
 2. 소스코드에서 해당 txt파일의 경로를 설정해준다.
 3. 소스코드를 실행하여 원하는 도서판매점을 선택하면, 매입가격이 GUI를 통해 출력된다.
 
+<div>
+![서적리스트](https://user-images.githubusercontent.com/36042058/72743312-c31e0080-3bee-11ea-9a98-771dc58638d9.png)
+![출력된 서적리스트](https://user-images.githubusercontent.com/36042058/72743360-e0eb6580-3bee-11ea-8746-4584270d131c.png)
+</div>
