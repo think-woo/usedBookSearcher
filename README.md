@@ -10,6 +10,9 @@ jsoup (https://jsoup.org/)
 3. 소스코드를 실행하여 원하는 도서판매점을 선택하면, 매입가격이 GUI를 통해 출력된다.
 
 <div>
-![서적리스트](https://user-images.githubusercontent.com/36042058/72743312-c31e0080-3bee-11ea-9a98-771dc58638d9.png)
-![출력된 서적리스트](https://user-images.githubusercontent.com/36042058/72743360-e0eb6580-3bee-11ea-8746-4584270d131c.png)
+  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FNp2T1%2FbtqBoPBT6kZ%2FDFv4rnZfghaVq9s1QQZFg0%2Fimg.png">
+  <p><제목 ISBN>형식으로 작성된 txt파일. 중간에 꼭 띄어쓰기를 한 번 해야한다.</p>
+    
+  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FLD3z6%2FbtqBpgF2KXP%2FNQN5ZWarGW11kvzp8GqeO1%2Fimg.png">
+  <p>GUI를 통해 출력된 서적 목록. 가격이 없는 서적은 해당 도서판매점에서 취급하지 않는 서적이다.</p>
 </div>
